@@ -1,0 +1,8 @@
+VEHICLE
+NUMBER     CAPACITY
+  50          100
+
+CUSTOMER
+            X          Y  DEMAND  START    END  SERVICE TIME                                          NAME                                                             ADDRESS
+0  106.825063  11.114187       0    0.0  420.0             0                                           NaN                                                                 NaN
+1  106.751817  11.552345      18  170.0  230.0            15  Công ty TNHH TM DV SX Nội Thất Ngôi Nhà Xanh  An Phú Đông 10, Phường An Phú Đông, Quận 12, Thành phố Hồ Chí Minh

@@ -1,0 +1,11 @@
+Instance initial solution: depot_1
+Number vehicle: 2
+Total distance: 32.650838
+2
+Vehicle 0: (Depot, service time 0) -> (Customer 1, service time 20) -> (Depot, service time 55.0)
+		Depot: Customer NO. : 0; X : 106.8250625; Y : 11.1141875; Demand : 0.0; Ready Time : 0.0; Due Date : 420.0; Service Time : 0.0; Vehichle num: None
+		Customer: Customer NO. : 0; X : 106.8250625; Y : 11.1141875; Demand : 0.0; Ready Time : 0.0; Due Date : 420.0; Service Time : 0.0; Vehichle num: None 
+		Customer: Customer NO. : 1; X : 106.75181691; Y : 11.55234475; Demand : 18.0; Ready Time : 170.0; Due Date : 230.0; Service Time : 15.0; Vehichle num: 0 
+		Depot: Customer NO. : 0; X : 106.8250625; Y : 11.1141875; Demand : 0.0; Ready Time : 0.0; Due Date : 420.0; Service Time : 0.0; Vehichle num: None
+
+32.650838

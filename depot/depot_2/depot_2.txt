@@ -1,0 +1,43 @@
+VEHICLE
+NUMBER     CAPACITY
+  50          100
+
+CUSTOMER
+             X          Y  DEMAND  START    END  SERVICE TIME                                                                NAME                                                                         ADDRESS
+0   106.746578  10.994138       0    0.0  420.0             0                                                                 NaN                                                                             NaN
+1   106.800259  10.954291      26  200.0  360.0            15                                      Công ty TNHH TMSX TTNT Gia Đạt           Nguyễn Bỉnh Khiêm, Phường Bửu Long, Thành phố Biên Hòa, Tỉnh Đồng Nai
+2   106.643812  10.955966      69   20.0   80.0            15                                           Lê Đức Tuyến - 0913189296             Đường Hà Duy Phiên, Xã Bình Mỹ, Huyện Củ Chi, Thành phố Hồ Chí Minh
+3   106.704796  10.892582      18  240.0  380.0            15                                 Công ty TNHH Phát Triển Phú Mỹ Hưng                        Tôn Dật Tiên, Phú Mỹ Hưng, Quận 7, Thành phố Hồ Chí Minh
+4   106.720747  10.894220      79  270.0  360.0            15                                             Anh Kỳ Anh - 0786857572                      ðường Số 16, Phường Tân Phú, Quận 7, Thành phố Hồ Chí Minh
+5   106.786118  10.890648      27  120.0  210.0            15                                         Phòng Truyền Thông Tiếp Thị                                                 Nguyễn Văn Trỗi, Quận Phú Nhuận
+6   106.683907  10.916813      29   30.0  150.0            15                                     Hiệp Phát (CH Nguyễn Thị Hương)    Nguyễn Trọng Quyền, Phường Tân Thới Hoà, Quận Tân Phú, Thành phố Hồ Chí Minh
+7   106.829516  10.809994      48  290.0  380.0            15                                Công ty TNHH Đầu Tư Xây Dựng Unicons           Đại Lộ Bình Dương, Phường Lái Thiêu, Thị xã Thuận An, Tỉnh Bình Dương
+8   106.720584  11.005608      61   40.0  250.0            15  Công ty TNHH MTV Sản Xuất Thương Mại Trang Trí Nội Thất Lan Anh            Đường Liên Phường, Phước Long B, Quận Thủ Đức, Thành phố Hồ Chí Minh
+9   106.671205  10.934591      21   70.0  290.0            15                Công ty TNHH Thương Mại Và Sản Xuất Nội Thất Đất Mới        Đường Tỉnh Lộ 43, Phường Bình Chiểu, Quận Thủ Đức, Thành phố Hồ Chí Minh
+10  106.740752  10.908639      50  200.0  360.0            15                                  Công ty Cổ Phần Nội Thất Bim Decor  Đường Bình Thành, Phường Bình Hưng Hoà B, Quận Bình Tân, Thành phố Hồ Chí Minh
+11  106.742713  10.859155      48  120.0  210.0            15                                           Công Ty TNHH Western City              Tân Túc, Thị Trấn Tân Túc, Huyện Bình Chánh, Thành phố Hồ Chí Minh
+12  106.725921  10.877594      76   30.0  310.0            15                                  Công ty Cổ Phần Nội Thất Bim Decor  Đường Bình Thành, Phường Bình Hưng Hoà B, Quận Bình Tân, Thành phố Hồ Chí Minh
+13  106.745369  10.903838      39  210.0  290.0            15                        Công Ty TNHH Xây Dựng Nội Thất TN Thành Thạo         Đường Sư Đoàn 9, Xã Vĩnh Lộc A, Huyện Bình Chánh, Thành phố Hồ Chí Minh
+14  106.692028  10.959482      23   30.0  220.0            15                                                          Thịnh Phát            Ngô Chí Quốc, Phường Bình Chiểu, Quận Thủ Đức, Thành phố Hồ Chí Minh
+15  106.642134  10.941946      31  270.0  350.0            15                                                      Nguyễn Hữu Trí        Đường Võ Văn Vân, Xã Vĩnh Lộc B, Huyện Bình Chánh, Thành phố Hồ Chí Minh
+16  106.774077  10.879966      31   90.0  310.0            15                              Công Ty TNHH Phụ Kiện Cửa Tân Hiệp Lợi               Đường Ttn05, Phường Tân Thới Nhất, Quận 12, Thành phố Hồ Chí Minh
+17  106.728147  10.903680      61  240.0  310.0            15              Công ty TNHH Sản Xuất Thương Mại Dịch Vụ Tân Toàn Bích      Đường Nguyễn Đăng Khoa, Phường Thạch Mỹ Lợi, Quận 2, Thành phố Hồ Chí Minh
+18  106.672367  11.001187      67  160.0  280.0            15          Chi Nhánh tại Miền Nam - Công ty Cổ Phần Thiết Kế Lục Giác          Tân Thới Nhất 12, Phường Tân Thới Nhất, Quận 12, Thành phố Hồ Chí Minh
+19  106.984466  10.792870      28  160.0  300.0            15                                   Công ty Cổ Phần Việt Trường Giang           Dương Công Khi, Xã Xuânthới Sơn, Huyện Hóc Môn, Thành phố Hồ Chí Minh
+20  106.706551  10.883996      12  160.0  300.0            15                                       Công Ty TNHH Quân Vĩnh Phát      Trịnh Quang Nghị, Xã Phong Phú, Huyện Bình Chánh, Hồ Chí Minh, Việt Nam
+21  106.861135  10.806832      25  260.0  330.0            15                  Công ty TNHH Thiết Kế - Thi Công Nội Thất AV Decor                          Tl19, Phường Thạnh Lộc, Quận 12, Thành phố Hồ Chí Minh
+22  106.759562  10.975946      46  200.0  360.0            15                 Công ty Cổ Phần Xây Dựng Và Trang Trí Nội Thất ID&D                             Đường Vĩnh Phú 38, Thị xã Thuận An, Tỉnh Bình Dương
+23  106.691433  10.979922      53  230.0  360.0            15                                                      Xưởng Luân Mộc                Điện Biên Phủ, Phường 21, Quận Bình Thạnh, Thành phố Hồ Chí Minh
+24  106.728694  10.888199      14  240.0  380.0            15                                     Hiệp Phát (CH Nguyễn Thị Hương)    Nguyễn Trọng Quyền, Phường Tân Thới Hoà, Quận Tân Phú, Thành phố Hồ Chí Minh
+25  106.923474  10.866705      55   80.0  180.0            15                                             Công ty TNHH BELA DECOR               Dương Đình Hội, Phước Long B, Quận Thủ Đức, Thành phố Hồ Chí Minh
+26  106.744765  10.869484      80  140.0  340.0            15                                     Công Ty TNHH Xây Dựng Thế Tường               Đường Hà Đặc, Phường Trung Mỹ Tây, Quận 12, Thành phố Hồ Chí Minh
+27  106.805622  10.901605      53  200.0  350.0            15                                                    TK3 (Khánh Bình)                  Khu phố Bình Chánh, Phường Khánh Bình, TX Tân Uyên, Bình Dương
+28  106.711571  10.901158      12  120.0  310.0            15                              Công ty TNHH TM SX Vận Chuyển Hợp Phát              Võ Văn Vân, Xã Vĩnh Lộc B, Huyện Bình Chánh, Thành phố Hồ Chí Minh
+29  106.522397  11.183128      51  140.0  270.0            15                                                      TK1 (Thái Hòa)                                          XPVW+MJ4 Tan Uyen, Bình Dương, Vietnam
+30  106.720814  10.986354      23  180.0  240.0            15                         Công ty TNHH Tư Vấn Thiết Kế & Xây Dựng DAT        Đường Ql 13, Phường Hiệp Bình Phước, Quận Thủ Đức, Thành phố Hồ Chí Minh
+31  106.676221  11.056099      52  160.0  220.0            15           Công ty TNHH Sản Xuất Thương Mại Đầu Tư Nội Thất Gia Phát              Đường Số 8, Phường Long Phước, Quận Thủ Đức, Thành phố Hồ Chí Minh
+32  106.709404  10.883341      35  280.0  340.0            15                       Công ty TNHH Thương Mại Dịch Vụ Decor Sài Gòn           Đường ấp 5, Xã Xuân Thới Thượng, Huyện Hóc Môn, Thành phố Hồ Chí Minh
+33  106.834484  10.899300      73  110.0  210.0            15                                                     Xưởng Anh Trung                 Đường Dt 743, Phường Thái Hòa, Thị xã Tân Uyên, Tỉnh Bình Dương
+34  106.753543  10.862188      69  300.0  360.0            15                                       Công ty Cổ Phần Signora Decor             Đường Quốc Lộ 1, Phường An Phú Đông, Quận 12, Thành phố Hồ Chí Minh
+35  106.731763  10.980296      45  220.0  340.0            15                                                  Công ty TNHH ANACA       Đường ấp Đông 1-2, Xã Thới Tam Thôn, Huyện Hóc Môn, Thành phố Hồ Chí Minh
+36  106.813316  10.868854      36  140.0  300.0            15             Công ty TNHH Đồ Gỗ Và Trang Trí Nội Thất Anh Thịnh Phát                Đường 1b, Xã Vĩnh Lộc B, Huyện Bình Chánh, Thành phố Hồ Chí Minh

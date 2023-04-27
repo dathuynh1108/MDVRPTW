@@ -1,0 +1,517 @@
+Instance initial solution: depot_2
+Number vehicle: 18
+Total distance: 478.575583
+1
+Vehicle 0: (Depot, service time 0) -> (Customer 2, service time 14) -> (Customer 6, service time 35.0) -> (Depot, service time 59.0)
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": false, "vehicle_num": null}
+		Customer: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": false, "vehicle_num": null} 
+		Customer: {"cust_no": 2, "name": "Lê Đức Tuyến - 0913189296", "address": "Đường Hà Duy Phiên, Xã Bình Mỹ, Huyện Củ Chi, Thành phố Hồ Chí Minh", "x": 106.64381157, "y": 10.955966127, "demand": 69.0, "ready_time": 20.0, "due_date": 80.0, "service_time": 15.0, "is_served": true, "vehicle_num": 0} 
+		Customer: {"cust_no": 6, "name": "Hiệp Phát (CH Nguyễn Thị Hương)", "address": "Nguyễn Trọng Quyền, Phường Tân Thới Hoà, Quận Tân Phú, Thành phố Hồ Chí Minh", "x": 106.68390697, "y": 10.916813245, "demand": 29.0, "ready_time": 30.0, "due_date": 150.0, "service_time": 15.0, "is_served": true, "vehicle_num": 0} 
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": false, "vehicle_num": null}
+
+Vehicle 1: (Depot, service time 0) -> (Customer 1, service time 8) -> (Customer 3, service time 37.0) -> (Customer 5, service time 63.0) -> (Customer 9, service time 94.0) -> (Depot, service time 120.0)
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": false, "vehicle_num": null}
+		Customer: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": false, "vehicle_num": null} 
+		Customer: {"cust_no": 1, "name": "Công ty TNHH TMSX TTNT Gia Đạt", "address": "Nguyễn Bỉnh Khiêm, Phường Bửu Long, Thành phố Biên Hòa, Tỉnh Đồng Nai", "x": 106.80025946, "y": 10.954291314, "demand": 26.0, "ready_time": 200.0, "due_date": 360.0, "service_time": 15.0, "is_served": true, "vehicle_num": 1} 
+		Customer: {"cust_no": 3, "name": "Công ty TNHH Phát Triển Phú Mỹ Hưng", "address": "Tôn Dật Tiên, Phú Mỹ Hưng, Quận 7, Thành phố Hồ Chí Minh", "x": 106.7047955, "y": 10.892582107, "demand": 18.0, "ready_time": 240.0, "due_date": 380.0, "service_time": 15.0, "is_served": true, "vehicle_num": 1} 
+		Customer: {"cust_no": 5, "name": "Phòng Truyền Thông Tiếp Thị", "address": "Nguyễn Văn Trỗi, Quận Phú Nhuận", "x": 106.78611818, "y": 10.890647589, "demand": 27.0, "ready_time": 120.0, "due_date": 210.0, "service_time": 15.0, "is_served": true, "vehicle_num": 1} 
+		Customer: {"cust_no": 9, "name": "Công ty TNHH Thương Mại Và Sản Xuất Nội Thất Đất Mới", "address": "Đường Tỉnh Lộ 43, Phường Bình Chiểu, Quận Thủ Đức, Thành phố Hồ Chí Minh", "x": 106.671205, "y": 10.934591, "demand": 21.0, "ready_time": 70.0, "due_date": 290.0, "service_time": 15.0, "is_served": true, "vehicle_num": 1} 
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": false, "vehicle_num": null}
+
+Vehicle 2: (Depot, service time 0) -> (Customer 4, service time 6) -> (Customer 20, service time 23.0) -> (Depot, service time 45.0)
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": false, "vehicle_num": null}
+		Customer: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": false, "vehicle_num": null} 
+		Customer: {"cust_no": 4, "name": "Anh Kỳ Anh - 0786857572", "address": "ðường Số 16, Phường Tân Phú, Quận 7, Thành phố Hồ Chí Minh", "x": 106.72074688, "y": 10.894220219, "demand": 79.0, "ready_time": 270.0, "due_date": 360.0, "service_time": 15.0, "is_served": true, "vehicle_num": 2} 
+		Customer: {"cust_no": 20, "name": "Công Ty TNHH Quân Vĩnh Phát", "address": "Trịnh Quang Nghị, Xã Phong Phú, Huyện Bình Chánh, Hồ Chí Minh, Việt Nam", "x": 106.70655081, "y": 10.883996207, "demand": 12.0, "ready_time": 160.0, "due_date": 300.0, "service_time": 15.0, "is_served": true, "vehicle_num": 2} 
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": false, "vehicle_num": null}
+
+Vehicle 3: (Depot, service time 0) -> (Customer 7, service time 14) -> (Customer 10, service time 42.0) -> (Depot, service time 61.0)
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": false, "vehicle_num": null}
+		Customer: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": false, "vehicle_num": null} 
+		Customer: {"cust_no": 7, "name": "Công ty TNHH Đầu Tư Xây Dựng Unicons", "address": "Đại Lộ Bình Dương, Phường Lái Thiêu, Thị xã Thuận An, Tỉnh Bình Dương", "x": 106.8295158, "y": 10.809994447, "demand": 48.0, "ready_time": 290.0, "due_date": 380.0, "service_time": 15.0, "is_served": true, "vehicle_num": 3} 
+		Customer: {"cust_no": 10, "name": "Công ty Cổ Phần Nội Thất Bim Decor", "address": "Đường Bình Thành, Phường Bình Hưng Hoà B, Quận Bình Tân, Thành phố Hồ Chí Minh", "x": 106.74075181, "y": 10.908638626, "demand": 50.0, "ready_time": 200.0, "due_date": 360.0, "service_time": 15.0, "is_served": true, "vehicle_num": 3} 
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": false, "vehicle_num": null}
+
+Vehicle 4: (Depot, service time 0) -> (Customer 8, service time 4) -> (Customer 14, service time 24.0) -> (Customer 24, service time 45.0) -> (Depot, service time 65.0)
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": false, "vehicle_num": null}
+		Customer: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": false, "vehicle_num": null} 
+		Customer: {"cust_no": 8, "name": "Công ty TNHH MTV Sản Xuất Thương Mại Trang Trí Nội Thất Lan Anh", "address": "Đường Liên Phường, Phước Long B, Quận Thủ Đức, Thành phố Hồ Chí Minh", "x": 106.72058429, "y": 11.005608246, "demand": 61.0, "ready_time": 40.0, "due_date": 250.0, "service_time": 15.0, "is_served": true, "vehicle_num": 4} 
+		Customer: {"cust_no": 14, "name": "Thịnh Phát", "address": "Ngô Chí Quốc, Phường Bình Chiểu, Quận Thủ Đức, Thành phố Hồ Chí Minh", "x": 106.69202774, "y": 10.959481528, "demand": 23.0, "ready_time": 30.0, "due_date": 220.0, "service_time": 15.0, "is_served": true, "vehicle_num": 4} 
+		Customer: {"cust_no": 24, "name": "Hiệp Phát (CH Nguyễn Thị Hương)", "address": "Nguyễn Trọng Quyền, Phường Tân Thới Hoà, Quận Tân Phú, Thành phố Hồ Chí Minh", "x": 106.728693544865, "y": 10.8881993524627, "demand": 14.0, "ready_time": 240.0, "due_date": 380.0, "service_time": 15.0, "is_served": true, "vehicle_num": 4} 
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": false, "vehicle_num": null}
+
+Vehicle 5: (Depot, service time 0) -> (Customer 11, service time 6) -> (Customer 13, service time 23.0) -> (Customer 28, service time 43.0) -> (Depot, service time 64.0)
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": false, "vehicle_num": null}
+		Customer: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": false, "vehicle_num": null} 
+		Customer: {"cust_no": 11, "name": "Công Ty TNHH Western City", "address": "Tân Túc, Thị Trấn Tân Túc, Huyện Bình Chánh, Thành phố Hồ Chí Minh", "x": 106.74271339, "y": 10.859154544, "demand": 48.0, "ready_time": 120.0, "due_date": 210.0, "service_time": 15.0, "is_served": true, "vehicle_num": 5} 
+		Customer: {"cust_no": 13, "name": "Công Ty TNHH Xây Dựng Nội Thất TN Thành Thạo", "address": "Đường Sư Đoàn 9, Xã Vĩnh Lộc A, Huyện Bình Chánh, Thành phố Hồ Chí Minh", "x": 106.745369, "y": 10.903838, "demand": 39.0, "ready_time": 210.0, "due_date": 290.0, "service_time": 15.0, "is_served": true, "vehicle_num": 5} 
+		Customer: {"cust_no": 28, "name": "Công ty TNHH TM SX Vận Chuyển Hợp Phát", "address": "Võ Văn Vân, Xã Vĩnh Lộc B, Huyện Bình Chánh, Thành phố Hồ Chí Minh", "x": 106.71157068, "y": 10.901157782, "demand": 12.0, "ready_time": 120.0, "due_date": 310.0, "service_time": 15.0, "is_served": true, "vehicle_num": 5} 
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": false, "vehicle_num": null}
+
+Vehicle 6: (Depot, service time 0) -> (Customer 12, service time 6) -> (Customer 30, service time 26.0) -> (Depot, service time 45.0)
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": false, "vehicle_num": null}
+		Customer: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": false, "vehicle_num": null} 
+		Customer: {"cust_no": 12, "name": "Công ty Cổ Phần Nội Thất Bim Decor", "address": "Đường Bình Thành, Phường Bình Hưng Hoà B, Quận Bình Tân, Thành phố Hồ Chí Minh", "x": 106.72592118, "y": 10.877594333, "demand": 76.0, "ready_time": 30.0, "due_date": 310.0, "service_time": 15.0, "is_served": true, "vehicle_num": 6} 
+		Customer: {"cust_no": 30, "name": "Công ty TNHH Tư Vấn Thiết Kế & Xây Dựng DAT", "address": "Đường Ql 13, Phường Hiệp Bình Phước, Quận Thủ Đức, Thành phố Hồ Chí Minh", "x": 106.7208141, "y": 10.9863538, "demand": 23.0, "ready_time": 180.0, "due_date": 240.0, "service_time": 15.0, "is_served": true, "vehicle_num": 6} 
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": false, "vehicle_num": null}
+
+Vehicle 7: (Depot, service time 0) -> (Customer 15, service time 15) -> (Customer 16, service time 48.0) -> (Customer 19, service time 92.0) -> (Depot, service time 140.0)
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": false, "vehicle_num": null}
+		Customer: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": false, "vehicle_num": null} 
+		Customer: {"cust_no": 15, "name": "Nguyễn Hữu Trí", "address": "Đường Võ Văn Vân, Xã Vĩnh Lộc B, Huyện Bình Chánh, Thành phố Hồ Chí Minh", "x": 106.64213352, "y": 10.94194556, "demand": 31.0, "ready_time": 270.0, "due_date": 350.0, "service_time": 15.0, "is_served": true, "vehicle_num": 7} 
+		Customer: {"cust_no": 16, "name": "Công Ty TNHH Phụ Kiện Cửa Tân Hiệp Lợi", "address": "Đường Ttn05, Phường Tân Thới Nhất, Quận 12, Thành phố Hồ Chí Minh", "x": 106.774077, "y": 10.879966, "demand": 31.0, "ready_time": 90.0, "due_date": 310.0, "service_time": 15.0, "is_served": true, "vehicle_num": 7} 
+		Customer: {"cust_no": 19, "name": "Công ty Cổ Phần Việt Trường Giang", "address": "Dương Công Khi, Xã Xuânthới Sơn, Huyện Hóc Môn, Thành phố Hồ Chí Minh", "x": 106.984466314316, "y": 10.7928703763957, "demand": 28.0, "ready_time": 160.0, "due_date": 300.0, "service_time": 15.0, "is_served": true, "vehicle_num": 7} 
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": false, "vehicle_num": null}
+
+Vehicle 8: (Depot, service time 0) -> (Customer 17, service time 5) -> (Customer 21, service time 39.0) -> (Depot, service time 71.0)
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": false, "vehicle_num": null}
+		Customer: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": false, "vehicle_num": null} 
+		Customer: {"cust_no": 17, "name": "Công ty TNHH Sản Xuất Thương Mại Dịch Vụ Tân Toàn Bích", "address": "Đường Nguyễn Đăng Khoa, Phường Thạch Mỹ Lợi, Quận 2, Thành phố Hồ Chí Minh", "x": 106.7281472, "y": 10.903679984, "demand": 61.0, "ready_time": 240.0, "due_date": 310.0, "service_time": 15.0, "is_served": true, "vehicle_num": 8} 
+		Customer: {"cust_no": 21, "name": "Công ty TNHH Thiết Kế - Thi Công Nội Thất AV Decor", "address": "Tl19, Phường Thạnh Lộc, Quận 12, Thành phố Hồ Chí Minh", "x": 106.8611347, "y": 10.806832001, "demand": 25.0, "ready_time": 260.0, "due_date": 330.0, "service_time": 15.0, "is_served": true, "vehicle_num": 8} 
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": false, "vehicle_num": null}
+
+Vehicle 9: (Depot, service time 0) -> (Customer 18, service time 10) -> (Depot, service time 35.0)
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": false, "vehicle_num": null}
+		Customer: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": false, "vehicle_num": null} 
+		Customer: {"cust_no": 18, "name": "Chi Nhánh tại Miền Nam - Công ty Cổ Phần Thiết Kế Lục Giác", "address": "Tân Thới Nhất 12, Phường Tân Thới Nhất, Quận 12, Thành phố Hồ Chí Minh", "x": 106.672367, "y": 11.001187, "demand": 67.0, "ready_time": 160.0, "due_date": 280.0, "service_time": 15.0, "is_served": true, "vehicle_num": 9} 
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": false, "vehicle_num": null}
+
+Vehicle 10: (Depot, service time 0) -> (Customer 22, service time 2) -> (Customer 23, service time 27.0) -> (Depot, service time 50.0)
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": false, "vehicle_num": null}
+		Customer: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": false, "vehicle_num": null} 
+		Customer: {"cust_no": 22, "name": "Công ty Cổ Phần Xây Dựng Và Trang Trí Nội Thất ID&D", "address": "Đường Vĩnh Phú 38, Thị xã Thuận An, Tỉnh Bình Dương", "x": 106.759562, "y": 10.975946, "demand": 46.0, "ready_time": 200.0, "due_date": 360.0, "service_time": 15.0, "is_served": true, "vehicle_num": 10} 
+		Customer: {"cust_no": 23, "name": "Xưởng Luân Mộc", "address": "Điện Biên Phủ, Phường 21, Quận Bình Thạnh, Thành phố Hồ Chí Minh", "x": 106.69143306, "y": 10.979922234, "demand": 53.0, "ready_time": 230.0, "due_date": 360.0, "service_time": 15.0, "is_served": true, "vehicle_num": 10} 
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": false, "vehicle_num": null}
+
+Vehicle 11: (Depot, service time 0) -> (Customer 25, service time 25) -> (Customer 32, service time 69.0) -> (Depot, service time 91.0)
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": false, "vehicle_num": null}
+		Customer: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": false, "vehicle_num": null} 
+		Customer: {"cust_no": 25, "name": "Công ty TNHH BELA DECOR", "address": "Dương Đình Hội, Phước Long B, Quận Thủ Đức, Thành phố Hồ Chí Minh", "x": 106.92347418, "y": 10.866704567, "demand": 55.0, "ready_time": 80.0, "due_date": 180.0, "service_time": 15.0, "is_served": true, "vehicle_num": 11} 
+		Customer: {"cust_no": 32, "name": "Công ty TNHH Thương Mại Dịch Vụ Decor Sài Gòn", "address": "Đường ấp 5, Xã Xuân Thới Thượng, Huyện Hóc Môn, Thành phố Hồ Chí Minh", "x": 106.709404, "y": 10.883341, "demand": 35.0, "ready_time": 280.0, "due_date": 340.0, "service_time": 15.0, "is_served": true, "vehicle_num": 11} 
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": false, "vehicle_num": null}
+
+Vehicle 12: (Depot, service time 0) -> (Customer 26, service time 5) -> (Depot, service time 25.0)
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": false, "vehicle_num": null}
+		Customer: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": false, "vehicle_num": null} 
+		Customer: {"cust_no": 26, "name": "Công Ty TNHH Xây Dựng Thế Tường", "address": "Đường Hà Đặc, Phường Trung Mỹ Tây, Quận 12, Thành phố Hồ Chí Minh", "x": 106.74476514, "y": 10.869483507, "demand": 80.0, "ready_time": 140.0, "due_date": 340.0, "service_time": 15.0, "is_served": true, "vehicle_num": 12} 
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": false, "vehicle_num": null}
+
+Vehicle 13: (Depot, service time 0) -> (Customer 27, service time 9) -> (Customer 35, service time 35.0) -> (Depot, service time 53.0)
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": false, "vehicle_num": null}
+		Customer: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": false, "vehicle_num": null} 
+		Customer: {"cust_no": 27, "name": "TK3 (Khánh Bình)", "address": "Khu phố Bình Chánh, Phường Khánh Bình, TX Tân Uyên, Bình Dương", "x": 106.80562151, "y": 10.901605283, "demand": 53.0, "ready_time": 200.0, "due_date": 350.0, "service_time": 15.0, "is_served": true, "vehicle_num": 13} 
+		Customer: {"cust_no": 35, "name": "Công ty TNHH ANACA", "address": "Đường ấp Đông 1-2, Xã Thới Tam Thôn, Huyện Hóc Môn, Thành phố Hồ Chí Minh", "x": 106.73176292, "y": 10.980296147, "demand": 45.0, "ready_time": 220.0, "due_date": 340.0, "service_time": 15.0, "is_served": true, "vehicle_num": 13} 
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": false, "vehicle_num": null}
+
+Vehicle 14: (Depot, service time 0) -> (Customer 29, service time 31) -> (Customer 36, service time 87.0) -> (Depot, service time 113.0)
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": false, "vehicle_num": null}
+		Customer: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": false, "vehicle_num": null} 
+		Customer: {"cust_no": 29, "name": "TK1 (Thái Hòa)", "address": "XPVW+MJ4 Tan Uyen, Bình Dương, Vietnam", "x": 106.522396802902, "y": 11.1831276912294, "demand": 51.0, "ready_time": 140.0, "due_date": 270.0, "service_time": 15.0, "is_served": true, "vehicle_num": 14} 
+		Customer: {"cust_no": 36, "name": "Công ty TNHH Đồ Gỗ Và Trang Trí Nội Thất Anh Thịnh Phát", "address": "Đường 1b, Xã Vĩnh Lộc B, Huyện Bình Chánh, Thành phố Hồ Chí Minh", "x": 106.81331558, "y": 10.868854498, "demand": 36.0, "ready_time": 140.0, "due_date": 300.0, "service_time": 15.0, "is_served": true, "vehicle_num": 14} 
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": false, "vehicle_num": null}
+
+Vehicle 15: (Depot, service time 0) -> (Customer 31, service time 10) -> (Depot, service time 35.0)
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": false, "vehicle_num": null}
+		Customer: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": false, "vehicle_num": null} 
+		Customer: {"cust_no": 31, "name": "Công ty TNHH Sản Xuất Thương Mại Đầu Tư Nội Thất Gia Phát", "address": "Đường Số 8, Phường Long Phước, Quận Thủ Đức, Thành phố Hồ Chí Minh", "x": 106.67622099, "y": 11.056098959, "demand": 52.0, "ready_time": 160.0, "due_date": 220.0, "service_time": 15.0, "is_served": true, "vehicle_num": 15} 
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": false, "vehicle_num": null}
+
+Vehicle 16: (Depot, service time 0) -> (Customer 33, service time 13) -> (Depot, service time 41.0)
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": false, "vehicle_num": null}
+		Customer: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": false, "vehicle_num": null} 
+		Customer: {"cust_no": 33, "name": "Xưởng Anh Trung", "address": "Đường Dt 743, Phường Thái Hòa, Thị xã Tân Uyên, Tỉnh Bình Dương", "x": 106.83448438, "y": 10.899300337, "demand": 73.0, "ready_time": 110.0, "due_date": 210.0, "service_time": 15.0, "is_served": true, "vehicle_num": 16} 
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": false, "vehicle_num": null}
+
+Vehicle 17: (Depot, service time 0) -> (Customer 34, service time 6) -> (Depot, service time 27.0)
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": false, "vehicle_num": null}
+		Customer: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": false, "vehicle_num": null} 
+		Customer: {"cust_no": 34, "name": "Công ty Cổ Phần Signora Decor", "address": "Đường Quốc Lộ 1, Phường An Phú Đông, Quận 12, Thành phố Hồ Chí Minh", "x": 106.75354258, "y": 10.862187633, "demand": 69.0, "ready_time": 300.0, "due_date": 360.0, "service_time": 15.0, "is_served": true, "vehicle_num": 17} 
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": false, "vehicle_num": null}
+
+478.575583
+
+----------------------------------
+Instance depot_2 after 1 min
+Number vehicle: 17
+Total distance: 359.75981999999993
+2
+Vehicle 1: (Depot, service time 0) -> (Customer 26, service time 5) -> (Depot, service time 25.0)
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+		Customer: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11} 
+		Customer: {"cust_no": 26, "name": "Công Ty TNHH Xây Dựng Thế Tường", "address": "Đường Hà Đặc, Phường Trung Mỹ Tây, Quận 12, Thành phố Hồ Chí Minh", "x": 106.74476514, "y": 10.869483507, "demand": 80.0, "ready_time": 140.0, "due_date": 340.0, "service_time": 15.0, "is_served": true, "vehicle_num": 1} 
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+
+Vehicle 2: (Depot, service time 0) -> (Customer 8, service time 4) -> (Customer 30, service time 20.0) -> (Depot, service time 39.0)
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+		Customer: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11} 
+		Customer: {"cust_no": 8, "name": "Công ty TNHH MTV Sản Xuất Thương Mại Trang Trí Nội Thất Lan Anh", "address": "Đường Liên Phường, Phước Long B, Quận Thủ Đức, Thành phố Hồ Chí Minh", "x": 106.72058429, "y": 11.005608246, "demand": 61.0, "ready_time": 40.0, "due_date": 250.0, "service_time": 15.0, "is_served": true, "vehicle_num": 2} 
+		Customer: {"cust_no": 30, "name": "Công ty TNHH Tư Vấn Thiết Kế & Xây Dựng DAT", "address": "Đường Ql 13, Phường Hiệp Bình Phước, Quận Thủ Đức, Thành phố Hồ Chí Minh", "x": 106.7208141, "y": 10.9863538, "demand": 23.0, "ready_time": 180.0, "due_date": 240.0, "service_time": 15.0, "is_served": true, "vehicle_num": 2} 
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+
+Vehicle 6: (Depot, service time 0) -> (Customer 12, service time 6) -> (Customer 24, service time 22.0) -> (Depot, service time 42.0)
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+		Customer: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11} 
+		Customer: {"cust_no": 12, "name": "Công ty Cổ Phần Nội Thất Bim Decor", "address": "Đường Bình Thành, Phường Bình Hưng Hoà B, Quận Bình Tân, Thành phố Hồ Chí Minh", "x": 106.72592118, "y": 10.877594333, "demand": 76.0, "ready_time": 30.0, "due_date": 310.0, "service_time": 15.0, "is_served": true, "vehicle_num": 6} 
+		Customer: {"cust_no": 24, "name": "Hiệp Phát (CH Nguyễn Thị Hương)", "address": "Nguyễn Trọng Quyền, Phường Tân Thới Hoà, Quận Tân Phú, Thành phố Hồ Chí Minh", "x": 106.728693544865, "y": 10.8881993524627, "demand": 14.0, "ready_time": 240.0, "due_date": 380.0, "service_time": 15.0, "is_served": true, "vehicle_num": 6} 
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+
+Vehicle 11: (Depot, service time 0) -> (Customer 29, service time 31) -> (Customer 9, service time 69.0) -> (Customer 14, service time 87.0) -> (Depot, service time 110.0)
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+		Customer: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11} 
+		Customer: {"cust_no": 29, "name": "TK1 (Thái Hòa)", "address": "XPVW+MJ4 Tan Uyen, Bình Dương, Vietnam", "x": 106.522396802902, "y": 11.1831276912294, "demand": 51.0, "ready_time": 140.0, "due_date": 270.0, "service_time": 15.0, "is_served": true, "vehicle_num": 11} 
+		Customer: {"cust_no": 9, "name": "Công ty TNHH Thương Mại Và Sản Xuất Nội Thất Đất Mới", "address": "Đường Tỉnh Lộ 43, Phường Bình Chiểu, Quận Thủ Đức, Thành phố Hồ Chí Minh", "x": 106.671205, "y": 10.934591, "demand": 21.0, "ready_time": 70.0, "due_date": 290.0, "service_time": 15.0, "is_served": true, "vehicle_num": 11} 
+		Customer: {"cust_no": 14, "name": "Thịnh Phát", "address": "Ngô Chí Quốc, Phường Bình Chiểu, Quận Thủ Đức, Thành phố Hồ Chí Minh", "x": 106.69202774, "y": 10.959481528, "demand": 23.0, "ready_time": 30.0, "due_date": 220.0, "service_time": 15.0, "is_served": true, "vehicle_num": 11} 
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+
+Vehicle 13: (Depot, service time 0) -> (Customer 4, service time 6) -> (Depot, service time 27.0)
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+		Customer: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11} 
+		Customer: {"cust_no": 4, "name": "Anh Kỳ Anh - 0786857572", "address": "ðường Số 16, Phường Tân Phú, Quận 7, Thành phố Hồ Chí Minh", "x": 106.72074688, "y": 10.894220219, "demand": 79.0, "ready_time": 270.0, "due_date": 360.0, "service_time": 15.0, "is_served": true, "vehicle_num": 13} 
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+
+Vehicle 15: (Depot, service time 0) -> (Customer 31, service time 10) -> (Customer 22, service time 37.0) -> (Depot, service time 54.0)
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+		Customer: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11} 
+		Customer: {"cust_no": 31, "name": "Công ty TNHH Sản Xuất Thương Mại Đầu Tư Nội Thất Gia Phát", "address": "Đường Số 8, Phường Long Phước, Quận Thủ Đức, Thành phố Hồ Chí Minh", "x": 106.67622099, "y": 11.056098959, "demand": 52.0, "ready_time": 160.0, "due_date": 220.0, "service_time": 15.0, "is_served": true, "vehicle_num": 15} 
+		Customer: {"cust_no": 22, "name": "Công ty Cổ Phần Xây Dựng Và Trang Trí Nội Thất ID&D", "address": "Đường Vĩnh Phú 38, Thị xã Thuận An, Tỉnh Bình Dương", "x": 106.759562, "y": 10.975946, "demand": 46.0, "ready_time": 200.0, "due_date": 360.0, "service_time": 15.0, "is_served": true, "vehicle_num": 15} 
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+
+Vehicle 20: (Depot, service time 0) -> (Customer 36, service time 11) -> (Customer 7, service time 30.0) -> (Depot, service time 59.0)
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+		Customer: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11} 
+		Customer: {"cust_no": 36, "name": "Công ty TNHH Đồ Gỗ Và Trang Trí Nội Thất Anh Thịnh Phát", "address": "Đường 1b, Xã Vĩnh Lộc B, Huyện Bình Chánh, Thành phố Hồ Chí Minh", "x": 106.81331558, "y": 10.868854498, "demand": 36.0, "ready_time": 140.0, "due_date": 300.0, "service_time": 15.0, "is_served": true, "vehicle_num": 20} 
+		Customer: {"cust_no": 7, "name": "Công ty TNHH Đầu Tư Xây Dựng Unicons", "address": "Đại Lộ Bình Dương, Phường Lái Thiêu, Thị xã Thuận An, Tỉnh Bình Dương", "x": 106.8295158, "y": 10.809994447, "demand": 48.0, "ready_time": 290.0, "due_date": 380.0, "service_time": 15.0, "is_served": true, "vehicle_num": 20} 
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+
+Vehicle 22: (Depot, service time 0) -> (Customer 19, service time 33) -> (Customer 21, service time 65.0) -> (Customer 13, service time 96.0) -> (Depot, service time 115.0)
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+		Customer: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11} 
+		Customer: {"cust_no": 19, "name": "Công ty Cổ Phần Việt Trường Giang", "address": "Dương Công Khi, Xã Xuânthới Sơn, Huyện Hóc Môn, Thành phố Hồ Chí Minh", "x": 106.984466314316, "y": 10.7928703763957, "demand": 28.0, "ready_time": 160.0, "due_date": 300.0, "service_time": 15.0, "is_served": true, "vehicle_num": 22} 
+		Customer: {"cust_no": 21, "name": "Công ty TNHH Thiết Kế - Thi Công Nội Thất AV Decor", "address": "Tl19, Phường Thạnh Lộc, Quận 12, Thành phố Hồ Chí Minh", "x": 106.8611347, "y": 10.806832001, "demand": 25.0, "ready_time": 260.0, "due_date": 330.0, "service_time": 15.0, "is_served": true, "vehicle_num": 22} 
+		Customer: {"cust_no": 13, "name": "Công Ty TNHH Xây Dựng Nội Thất TN Thành Thạo", "address": "Đường Sư Đoàn 9, Xã Vĩnh Lộc A, Huyện Bình Chánh, Thành phố Hồ Chí Minh", "x": 106.745369, "y": 10.903838, "demand": 39.0, "ready_time": 210.0, "due_date": 290.0, "service_time": 15.0, "is_served": true, "vehicle_num": 22} 
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+
+Vehicle 24: (Depot, service time 0) -> (Customer 23, service time 8) -> (Customer 3, service time 27.0) -> (Customer 20, service time 43.0) -> (Customer 28, service time 59.0) -> (Depot, service time 80.0)
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+		Customer: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11} 
+		Customer: {"cust_no": 23, "name": "Xưởng Luân Mộc", "address": "Điện Biên Phủ, Phường 21, Quận Bình Thạnh, Thành phố Hồ Chí Minh", "x": 106.69143306, "y": 10.979922234, "demand": 53.0, "ready_time": 230.0, "due_date": 360.0, "service_time": 15.0, "is_served": true, "vehicle_num": 24} 
+		Customer: {"cust_no": 3, "name": "Công ty TNHH Phát Triển Phú Mỹ Hưng", "address": "Tôn Dật Tiên, Phú Mỹ Hưng, Quận 7, Thành phố Hồ Chí Minh", "x": 106.7047955, "y": 10.892582107, "demand": 18.0, "ready_time": 240.0, "due_date": 380.0, "service_time": 15.0, "is_served": true, "vehicle_num": 24} 
+		Customer: {"cust_no": 20, "name": "Công Ty TNHH Quân Vĩnh Phát", "address": "Trịnh Quang Nghị, Xã Phong Phú, Huyện Bình Chánh, Hồ Chí Minh, Việt Nam", "x": 106.70655081, "y": 10.883996207, "demand": 12.0, "ready_time": 160.0, "due_date": 300.0, "service_time": 15.0, "is_served": true, "vehicle_num": 24} 
+		Customer: {"cust_no": 28, "name": "Công ty TNHH TM SX Vận Chuyển Hợp Phát", "address": "Võ Văn Vân, Xã Vĩnh Lộc B, Huyện Bình Chánh, Thành phố Hồ Chí Minh", "x": 106.71157068, "y": 10.901157782, "demand": 12.0, "ready_time": 120.0, "due_date": 310.0, "service_time": 15.0, "is_served": true, "vehicle_num": 24} 
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+
+Vehicle 27: (Depot, service time 0) -> (Customer 11, service time 6) -> (Customer 10, service time 23.0) -> (Depot, service time 42.0)
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+		Customer: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11} 
+		Customer: {"cust_no": 11, "name": "Công Ty TNHH Western City", "address": "Tân Túc, Thị Trấn Tân Túc, Huyện Bình Chánh, Thành phố Hồ Chí Minh", "x": 106.74271339, "y": 10.859154544, "demand": 48.0, "ready_time": 120.0, "due_date": 210.0, "service_time": 15.0, "is_served": true, "vehicle_num": 27} 
+		Customer: {"cust_no": 10, "name": "Công ty Cổ Phần Nội Thất Bim Decor", "address": "Đường Bình Thành, Phường Bình Hưng Hoà B, Quận Bình Tân, Thành phố Hồ Chí Minh", "x": 106.74075181, "y": 10.908638626, "demand": 50.0, "ready_time": 200.0, "due_date": 360.0, "service_time": 15.0, "is_served": true, "vehicle_num": 27} 
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+
+Vehicle 29: (Depot, service time 0) -> (Customer 25, service time 25) -> (Customer 16, service time 61.0) -> (Depot, service time 82.0)
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+		Customer: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11} 
+		Customer: {"cust_no": 25, "name": "Công ty TNHH BELA DECOR", "address": "Dương Đình Hội, Phước Long B, Quận Thủ Đức, Thành phố Hồ Chí Minh", "x": 106.92347418, "y": 10.866704567, "demand": 55.0, "ready_time": 80.0, "due_date": 180.0, "service_time": 15.0, "is_served": true, "vehicle_num": 29} 
+		Customer: {"cust_no": 16, "name": "Công Ty TNHH Phụ Kiện Cửa Tân Hiệp Lợi", "address": "Đường Ttn05, Phường Tân Thới Nhất, Quận 12, Thành phố Hồ Chí Minh", "x": 106.774077, "y": 10.879966, "demand": 31.0, "ready_time": 90.0, "due_date": 310.0, "service_time": 15.0, "is_served": true, "vehicle_num": 29} 
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+
+Vehicle 30: (Depot, service time 0) -> (Customer 6, service time 9) -> (Customer 2, service time 30.0) -> (Depot, service time 59.0)
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+		Customer: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11} 
+		Customer: {"cust_no": 6, "name": "Hiệp Phát (CH Nguyễn Thị Hương)", "address": "Nguyễn Trọng Quyền, Phường Tân Thới Hoà, Quận Tân Phú, Thành phố Hồ Chí Minh", "x": 106.68390697, "y": 10.916813245, "demand": 29.0, "ready_time": 30.0, "due_date": 150.0, "service_time": 15.0, "is_served": true, "vehicle_num": 30} 
+		Customer: {"cust_no": 2, "name": "Lê Đức Tuyến - 0913189296", "address": "Đường Hà Duy Phiên, Xã Bình Mỹ, Huyện Củ Chi, Thành phố Hồ Chí Minh", "x": 106.64381157, "y": 10.955966127, "demand": 69.0, "ready_time": 20.0, "due_date": 80.0, "service_time": 15.0, "is_served": true, "vehicle_num": 30} 
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+
+Vehicle 34: (Depot, service time 0) -> (Customer 34, service time 6) -> (Customer 5, service time 26.0) -> (Depot, service time 48.0)
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+		Customer: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11} 
+		Customer: {"cust_no": 34, "name": "Công ty Cổ Phần Signora Decor", "address": "Đường Quốc Lộ 1, Phường An Phú Đông, Quận 12, Thành phố Hồ Chí Minh", "x": 106.75354258, "y": 10.862187633, "demand": 69.0, "ready_time": 300.0, "due_date": 360.0, "service_time": 15.0, "is_served": true, "vehicle_num": 34} 
+		Customer: {"cust_no": 5, "name": "Phòng Truyền Thông Tiếp Thị", "address": "Nguyễn Văn Trỗi, Quận Phú Nhuận", "x": 106.78611818, "y": 10.890647589, "demand": 27.0, "ready_time": 120.0, "due_date": 210.0, "service_time": 15.0, "is_served": true, "vehicle_num": 34} 
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+
+Vehicle 35: (Depot, service time 0) -> (Customer 27, service time 9) -> (Customer 35, service time 35.0) -> (Depot, service time 53.0)
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+		Customer: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11} 
+		Customer: {"cust_no": 27, "name": "TK3 (Khánh Bình)", "address": "Khu phố Bình Chánh, Phường Khánh Bình, TX Tân Uyên, Bình Dương", "x": 106.80562151, "y": 10.901605283, "demand": 53.0, "ready_time": 200.0, "due_date": 350.0, "service_time": 15.0, "is_served": true, "vehicle_num": 35} 
+		Customer: {"cust_no": 35, "name": "Công ty TNHH ANACA", "address": "Đường ấp Đông 1-2, Xã Thới Tam Thôn, Huyện Hóc Môn, Thành phố Hồ Chí Minh", "x": 106.73176292, "y": 10.980296147, "demand": 45.0, "ready_time": 220.0, "due_date": 340.0, "service_time": 15.0, "is_served": true, "vehicle_num": 35} 
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+
+Vehicle 38: (Depot, service time 0) -> (Customer 15, service time 15) -> (Customer 18, service time 35.0) -> (Depot, service time 60.0)
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+		Customer: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11} 
+		Customer: {"cust_no": 15, "name": "Nguyễn Hữu Trí", "address": "Đường Võ Văn Vân, Xã Vĩnh Lộc B, Huyện Bình Chánh, Thành phố Hồ Chí Minh", "x": 106.64213352, "y": 10.94194556, "demand": 31.0, "ready_time": 270.0, "due_date": 350.0, "service_time": 15.0, "is_served": true, "vehicle_num": 38} 
+		Customer: {"cust_no": 18, "name": "Chi Nhánh tại Miền Nam - Công ty Cổ Phần Thiết Kế Lục Giác", "address": "Tân Thới Nhất 12, Phường Tân Thới Nhất, Quận 12, Thành phố Hồ Chí Minh", "x": 106.672367, "y": 11.001187, "demand": 67.0, "ready_time": 160.0, "due_date": 280.0, "service_time": 15.0, "is_served": true, "vehicle_num": 38} 
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+
+Vehicle 39: (Depot, service time 0) -> (Customer 1, service time 8) -> (Customer 33, service time 29.0) -> (Depot, service time 57.0)
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+		Customer: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11} 
+		Customer: {"cust_no": 1, "name": "Công ty TNHH TMSX TTNT Gia Đạt", "address": "Nguyễn Bỉnh Khiêm, Phường Bửu Long, Thành phố Biên Hòa, Tỉnh Đồng Nai", "x": 106.80025946, "y": 10.954291314, "demand": 26.0, "ready_time": 200.0, "due_date": 360.0, "service_time": 15.0, "is_served": true, "vehicle_num": 39} 
+		Customer: {"cust_no": 33, "name": "Xưởng Anh Trung", "address": "Đường Dt 743, Phường Thái Hòa, Thị xã Tân Uyên, Tỉnh Bình Dương", "x": 106.83448438, "y": 10.899300337, "demand": 73.0, "ready_time": 110.0, "due_date": 210.0, "service_time": 15.0, "is_served": true, "vehicle_num": 39} 
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+
+Vehicle 44: (Depot, service time 0) -> (Customer 32, service time 7) -> (Customer 17, service time 25.0) -> (Depot, service time 45.0)
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+		Customer: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11} 
+		Customer: {"cust_no": 32, "name": "Công ty TNHH Thương Mại Dịch Vụ Decor Sài Gòn", "address": "Đường ấp 5, Xã Xuân Thới Thượng, Huyện Hóc Môn, Thành phố Hồ Chí Minh", "x": 106.709404, "y": 10.883341, "demand": 35.0, "ready_time": 280.0, "due_date": 340.0, "service_time": 15.0, "is_served": true, "vehicle_num": 44} 
+		Customer: {"cust_no": 17, "name": "Công ty TNHH Sản Xuất Thương Mại Dịch Vụ Tân Toàn Bích", "address": "Đường Nguyễn Đăng Khoa, Phường Thạch Mỹ Lợi, Quận 2, Thành phố Hồ Chí Minh", "x": 106.7281472, "y": 10.903679984, "demand": 61.0, "ready_time": 240.0, "due_date": 310.0, "service_time": 15.0, "is_served": true, "vehicle_num": 44} 
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+
+359.75981999999993
+Objective function count:  122134
+
+----------------------------------
+Instance depot_2 after 5 min
+Number vehicle: 17
+Total distance: 359.75981999999993
+2
+Vehicle 1: (Depot, service time 0) -> (Customer 26, service time 5) -> (Depot, service time 25.0)
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+		Customer: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11} 
+		Customer: {"cust_no": 26, "name": "Công Ty TNHH Xây Dựng Thế Tường", "address": "Đường Hà Đặc, Phường Trung Mỹ Tây, Quận 12, Thành phố Hồ Chí Minh", "x": 106.74476514, "y": 10.869483507, "demand": 80.0, "ready_time": 140.0, "due_date": 340.0, "service_time": 15.0, "is_served": true, "vehicle_num": 1} 
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+
+Vehicle 2: (Depot, service time 0) -> (Customer 8, service time 4) -> (Customer 30, service time 20.0) -> (Depot, service time 39.0)
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+		Customer: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11} 
+		Customer: {"cust_no": 8, "name": "Công ty TNHH MTV Sản Xuất Thương Mại Trang Trí Nội Thất Lan Anh", "address": "Đường Liên Phường, Phước Long B, Quận Thủ Đức, Thành phố Hồ Chí Minh", "x": 106.72058429, "y": 11.005608246, "demand": 61.0, "ready_time": 40.0, "due_date": 250.0, "service_time": 15.0, "is_served": true, "vehicle_num": 2} 
+		Customer: {"cust_no": 30, "name": "Công ty TNHH Tư Vấn Thiết Kế & Xây Dựng DAT", "address": "Đường Ql 13, Phường Hiệp Bình Phước, Quận Thủ Đức, Thành phố Hồ Chí Minh", "x": 106.7208141, "y": 10.9863538, "demand": 23.0, "ready_time": 180.0, "due_date": 240.0, "service_time": 15.0, "is_served": true, "vehicle_num": 2} 
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+
+Vehicle 6: (Depot, service time 0) -> (Customer 12, service time 6) -> (Customer 24, service time 22.0) -> (Depot, service time 42.0)
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+		Customer: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11} 
+		Customer: {"cust_no": 12, "name": "Công ty Cổ Phần Nội Thất Bim Decor", "address": "Đường Bình Thành, Phường Bình Hưng Hoà B, Quận Bình Tân, Thành phố Hồ Chí Minh", "x": 106.72592118, "y": 10.877594333, "demand": 76.0, "ready_time": 30.0, "due_date": 310.0, "service_time": 15.0, "is_served": true, "vehicle_num": 6} 
+		Customer: {"cust_no": 24, "name": "Hiệp Phát (CH Nguyễn Thị Hương)", "address": "Nguyễn Trọng Quyền, Phường Tân Thới Hoà, Quận Tân Phú, Thành phố Hồ Chí Minh", "x": 106.728693544865, "y": 10.8881993524627, "demand": 14.0, "ready_time": 240.0, "due_date": 380.0, "service_time": 15.0, "is_served": true, "vehicle_num": 6} 
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+
+Vehicle 11: (Depot, service time 0) -> (Customer 29, service time 31) -> (Customer 9, service time 69.0) -> (Customer 14, service time 87.0) -> (Depot, service time 110.0)
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+		Customer: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11} 
+		Customer: {"cust_no": 29, "name": "TK1 (Thái Hòa)", "address": "XPVW+MJ4 Tan Uyen, Bình Dương, Vietnam", "x": 106.522396802902, "y": 11.1831276912294, "demand": 51.0, "ready_time": 140.0, "due_date": 270.0, "service_time": 15.0, "is_served": true, "vehicle_num": 11} 
+		Customer: {"cust_no": 9, "name": "Công ty TNHH Thương Mại Và Sản Xuất Nội Thất Đất Mới", "address": "Đường Tỉnh Lộ 43, Phường Bình Chiểu, Quận Thủ Đức, Thành phố Hồ Chí Minh", "x": 106.671205, "y": 10.934591, "demand": 21.0, "ready_time": 70.0, "due_date": 290.0, "service_time": 15.0, "is_served": true, "vehicle_num": 11} 
+		Customer: {"cust_no": 14, "name": "Thịnh Phát", "address": "Ngô Chí Quốc, Phường Bình Chiểu, Quận Thủ Đức, Thành phố Hồ Chí Minh", "x": 106.69202774, "y": 10.959481528, "demand": 23.0, "ready_time": 30.0, "due_date": 220.0, "service_time": 15.0, "is_served": true, "vehicle_num": 11} 
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+
+Vehicle 13: (Depot, service time 0) -> (Customer 4, service time 6) -> (Depot, service time 27.0)
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+		Customer: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11} 
+		Customer: {"cust_no": 4, "name": "Anh Kỳ Anh - 0786857572", "address": "ðường Số 16, Phường Tân Phú, Quận 7, Thành phố Hồ Chí Minh", "x": 106.72074688, "y": 10.894220219, "demand": 79.0, "ready_time": 270.0, "due_date": 360.0, "service_time": 15.0, "is_served": true, "vehicle_num": 13} 
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+
+Vehicle 15: (Depot, service time 0) -> (Customer 31, service time 10) -> (Customer 22, service time 37.0) -> (Depot, service time 54.0)
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+		Customer: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11} 
+		Customer: {"cust_no": 31, "name": "Công ty TNHH Sản Xuất Thương Mại Đầu Tư Nội Thất Gia Phát", "address": "Đường Số 8, Phường Long Phước, Quận Thủ Đức, Thành phố Hồ Chí Minh", "x": 106.67622099, "y": 11.056098959, "demand": 52.0, "ready_time": 160.0, "due_date": 220.0, "service_time": 15.0, "is_served": true, "vehicle_num": 15} 
+		Customer: {"cust_no": 22, "name": "Công ty Cổ Phần Xây Dựng Và Trang Trí Nội Thất ID&D", "address": "Đường Vĩnh Phú 38, Thị xã Thuận An, Tỉnh Bình Dương", "x": 106.759562, "y": 10.975946, "demand": 46.0, "ready_time": 200.0, "due_date": 360.0, "service_time": 15.0, "is_served": true, "vehicle_num": 15} 
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+
+Vehicle 20: (Depot, service time 0) -> (Customer 36, service time 11) -> (Customer 7, service time 30.0) -> (Depot, service time 59.0)
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+		Customer: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11} 
+		Customer: {"cust_no": 36, "name": "Công ty TNHH Đồ Gỗ Và Trang Trí Nội Thất Anh Thịnh Phát", "address": "Đường 1b, Xã Vĩnh Lộc B, Huyện Bình Chánh, Thành phố Hồ Chí Minh", "x": 106.81331558, "y": 10.868854498, "demand": 36.0, "ready_time": 140.0, "due_date": 300.0, "service_time": 15.0, "is_served": true, "vehicle_num": 20} 
+		Customer: {"cust_no": 7, "name": "Công ty TNHH Đầu Tư Xây Dựng Unicons", "address": "Đại Lộ Bình Dương, Phường Lái Thiêu, Thị xã Thuận An, Tỉnh Bình Dương", "x": 106.8295158, "y": 10.809994447, "demand": 48.0, "ready_time": 290.0, "due_date": 380.0, "service_time": 15.0, "is_served": true, "vehicle_num": 20} 
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+
+Vehicle 22: (Depot, service time 0) -> (Customer 19, service time 33) -> (Customer 21, service time 65.0) -> (Customer 13, service time 96.0) -> (Depot, service time 115.0)
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+		Customer: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11} 
+		Customer: {"cust_no": 19, "name": "Công ty Cổ Phần Việt Trường Giang", "address": "Dương Công Khi, Xã Xuânthới Sơn, Huyện Hóc Môn, Thành phố Hồ Chí Minh", "x": 106.984466314316, "y": 10.7928703763957, "demand": 28.0, "ready_time": 160.0, "due_date": 300.0, "service_time": 15.0, "is_served": true, "vehicle_num": 22} 
+		Customer: {"cust_no": 21, "name": "Công ty TNHH Thiết Kế - Thi Công Nội Thất AV Decor", "address": "Tl19, Phường Thạnh Lộc, Quận 12, Thành phố Hồ Chí Minh", "x": 106.8611347, "y": 10.806832001, "demand": 25.0, "ready_time": 260.0, "due_date": 330.0, "service_time": 15.0, "is_served": true, "vehicle_num": 22} 
+		Customer: {"cust_no": 13, "name": "Công Ty TNHH Xây Dựng Nội Thất TN Thành Thạo", "address": "Đường Sư Đoàn 9, Xã Vĩnh Lộc A, Huyện Bình Chánh, Thành phố Hồ Chí Minh", "x": 106.745369, "y": 10.903838, "demand": 39.0, "ready_time": 210.0, "due_date": 290.0, "service_time": 15.0, "is_served": true, "vehicle_num": 22} 
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+
+Vehicle 24: (Depot, service time 0) -> (Customer 23, service time 8) -> (Customer 3, service time 27.0) -> (Customer 20, service time 43.0) -> (Customer 28, service time 59.0) -> (Depot, service time 80.0)
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+		Customer: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11} 
+		Customer: {"cust_no": 23, "name": "Xưởng Luân Mộc", "address": "Điện Biên Phủ, Phường 21, Quận Bình Thạnh, Thành phố Hồ Chí Minh", "x": 106.69143306, "y": 10.979922234, "demand": 53.0, "ready_time": 230.0, "due_date": 360.0, "service_time": 15.0, "is_served": true, "vehicle_num": 24} 
+		Customer: {"cust_no": 3, "name": "Công ty TNHH Phát Triển Phú Mỹ Hưng", "address": "Tôn Dật Tiên, Phú Mỹ Hưng, Quận 7, Thành phố Hồ Chí Minh", "x": 106.7047955, "y": 10.892582107, "demand": 18.0, "ready_time": 240.0, "due_date": 380.0, "service_time": 15.0, "is_served": true, "vehicle_num": 24} 
+		Customer: {"cust_no": 20, "name": "Công Ty TNHH Quân Vĩnh Phát", "address": "Trịnh Quang Nghị, Xã Phong Phú, Huyện Bình Chánh, Hồ Chí Minh, Việt Nam", "x": 106.70655081, "y": 10.883996207, "demand": 12.0, "ready_time": 160.0, "due_date": 300.0, "service_time": 15.0, "is_served": true, "vehicle_num": 24} 
+		Customer: {"cust_no": 28, "name": "Công ty TNHH TM SX Vận Chuyển Hợp Phát", "address": "Võ Văn Vân, Xã Vĩnh Lộc B, Huyện Bình Chánh, Thành phố Hồ Chí Minh", "x": 106.71157068, "y": 10.901157782, "demand": 12.0, "ready_time": 120.0, "due_date": 310.0, "service_time": 15.0, "is_served": true, "vehicle_num": 24} 
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+
+Vehicle 27: (Depot, service time 0) -> (Customer 11, service time 6) -> (Customer 10, service time 23.0) -> (Depot, service time 42.0)
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+		Customer: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11} 
+		Customer: {"cust_no": 11, "name": "Công Ty TNHH Western City", "address": "Tân Túc, Thị Trấn Tân Túc, Huyện Bình Chánh, Thành phố Hồ Chí Minh", "x": 106.74271339, "y": 10.859154544, "demand": 48.0, "ready_time": 120.0, "due_date": 210.0, "service_time": 15.0, "is_served": true, "vehicle_num": 27} 
+		Customer: {"cust_no": 10, "name": "Công ty Cổ Phần Nội Thất Bim Decor", "address": "Đường Bình Thành, Phường Bình Hưng Hoà B, Quận Bình Tân, Thành phố Hồ Chí Minh", "x": 106.74075181, "y": 10.908638626, "demand": 50.0, "ready_time": 200.0, "due_date": 360.0, "service_time": 15.0, "is_served": true, "vehicle_num": 27} 
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+
+Vehicle 29: (Depot, service time 0) -> (Customer 25, service time 25) -> (Customer 16, service time 61.0) -> (Depot, service time 82.0)
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+		Customer: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11} 
+		Customer: {"cust_no": 25, "name": "Công ty TNHH BELA DECOR", "address": "Dương Đình Hội, Phước Long B, Quận Thủ Đức, Thành phố Hồ Chí Minh", "x": 106.92347418, "y": 10.866704567, "demand": 55.0, "ready_time": 80.0, "due_date": 180.0, "service_time": 15.0, "is_served": true, "vehicle_num": 29} 
+		Customer: {"cust_no": 16, "name": "Công Ty TNHH Phụ Kiện Cửa Tân Hiệp Lợi", "address": "Đường Ttn05, Phường Tân Thới Nhất, Quận 12, Thành phố Hồ Chí Minh", "x": 106.774077, "y": 10.879966, "demand": 31.0, "ready_time": 90.0, "due_date": 310.0, "service_time": 15.0, "is_served": true, "vehicle_num": 29} 
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+
+Vehicle 30: (Depot, service time 0) -> (Customer 6, service time 9) -> (Customer 2, service time 30.0) -> (Depot, service time 59.0)
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+		Customer: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11} 
+		Customer: {"cust_no": 6, "name": "Hiệp Phát (CH Nguyễn Thị Hương)", "address": "Nguyễn Trọng Quyền, Phường Tân Thới Hoà, Quận Tân Phú, Thành phố Hồ Chí Minh", "x": 106.68390697, "y": 10.916813245, "demand": 29.0, "ready_time": 30.0, "due_date": 150.0, "service_time": 15.0, "is_served": true, "vehicle_num": 30} 
+		Customer: {"cust_no": 2, "name": "Lê Đức Tuyến - 0913189296", "address": "Đường Hà Duy Phiên, Xã Bình Mỹ, Huyện Củ Chi, Thành phố Hồ Chí Minh", "x": 106.64381157, "y": 10.955966127, "demand": 69.0, "ready_time": 20.0, "due_date": 80.0, "service_time": 15.0, "is_served": true, "vehicle_num": 30} 
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+
+Vehicle 34: (Depot, service time 0) -> (Customer 34, service time 6) -> (Customer 5, service time 26.0) -> (Depot, service time 48.0)
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+		Customer: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11} 
+		Customer: {"cust_no": 34, "name": "Công ty Cổ Phần Signora Decor", "address": "Đường Quốc Lộ 1, Phường An Phú Đông, Quận 12, Thành phố Hồ Chí Minh", "x": 106.75354258, "y": 10.862187633, "demand": 69.0, "ready_time": 300.0, "due_date": 360.0, "service_time": 15.0, "is_served": true, "vehicle_num": 34} 
+		Customer: {"cust_no": 5, "name": "Phòng Truyền Thông Tiếp Thị", "address": "Nguyễn Văn Trỗi, Quận Phú Nhuận", "x": 106.78611818, "y": 10.890647589, "demand": 27.0, "ready_time": 120.0, "due_date": 210.0, "service_time": 15.0, "is_served": true, "vehicle_num": 34} 
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+
+Vehicle 35: (Depot, service time 0) -> (Customer 27, service time 9) -> (Customer 35, service time 35.0) -> (Depot, service time 53.0)
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+		Customer: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11} 
+		Customer: {"cust_no": 27, "name": "TK3 (Khánh Bình)", "address": "Khu phố Bình Chánh, Phường Khánh Bình, TX Tân Uyên, Bình Dương", "x": 106.80562151, "y": 10.901605283, "demand": 53.0, "ready_time": 200.0, "due_date": 350.0, "service_time": 15.0, "is_served": true, "vehicle_num": 35} 
+		Customer: {"cust_no": 35, "name": "Công ty TNHH ANACA", "address": "Đường ấp Đông 1-2, Xã Thới Tam Thôn, Huyện Hóc Môn, Thành phố Hồ Chí Minh", "x": 106.73176292, "y": 10.980296147, "demand": 45.0, "ready_time": 220.0, "due_date": 340.0, "service_time": 15.0, "is_served": true, "vehicle_num": 35} 
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+
+Vehicle 38: (Depot, service time 0) -> (Customer 15, service time 15) -> (Customer 18, service time 35.0) -> (Depot, service time 60.0)
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+		Customer: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11} 
+		Customer: {"cust_no": 15, "name": "Nguyễn Hữu Trí", "address": "Đường Võ Văn Vân, Xã Vĩnh Lộc B, Huyện Bình Chánh, Thành phố Hồ Chí Minh", "x": 106.64213352, "y": 10.94194556, "demand": 31.0, "ready_time": 270.0, "due_date": 350.0, "service_time": 15.0, "is_served": true, "vehicle_num": 38} 
+		Customer: {"cust_no": 18, "name": "Chi Nhánh tại Miền Nam - Công ty Cổ Phần Thiết Kế Lục Giác", "address": "Tân Thới Nhất 12, Phường Tân Thới Nhất, Quận 12, Thành phố Hồ Chí Minh", "x": 106.672367, "y": 11.001187, "demand": 67.0, "ready_time": 160.0, "due_date": 280.0, "service_time": 15.0, "is_served": true, "vehicle_num": 38} 
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+
+Vehicle 39: (Depot, service time 0) -> (Customer 1, service time 8) -> (Customer 33, service time 29.0) -> (Depot, service time 57.0)
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+		Customer: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11} 
+		Customer: {"cust_no": 1, "name": "Công ty TNHH TMSX TTNT Gia Đạt", "address": "Nguyễn Bỉnh Khiêm, Phường Bửu Long, Thành phố Biên Hòa, Tỉnh Đồng Nai", "x": 106.80025946, "y": 10.954291314, "demand": 26.0, "ready_time": 200.0, "due_date": 360.0, "service_time": 15.0, "is_served": true, "vehicle_num": 39} 
+		Customer: {"cust_no": 33, "name": "Xưởng Anh Trung", "address": "Đường Dt 743, Phường Thái Hòa, Thị xã Tân Uyên, Tỉnh Bình Dương", "x": 106.83448438, "y": 10.899300337, "demand": 73.0, "ready_time": 110.0, "due_date": 210.0, "service_time": 15.0, "is_served": true, "vehicle_num": 39} 
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+
+Vehicle 44: (Depot, service time 0) -> (Customer 32, service time 7) -> (Customer 17, service time 25.0) -> (Depot, service time 45.0)
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+		Customer: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11} 
+		Customer: {"cust_no": 32, "name": "Công ty TNHH Thương Mại Dịch Vụ Decor Sài Gòn", "address": "Đường ấp 5, Xã Xuân Thới Thượng, Huyện Hóc Môn, Thành phố Hồ Chí Minh", "x": 106.709404, "y": 10.883341, "demand": 35.0, "ready_time": 280.0, "due_date": 340.0, "service_time": 15.0, "is_served": true, "vehicle_num": 44} 
+		Customer: {"cust_no": 17, "name": "Công ty TNHH Sản Xuất Thương Mại Dịch Vụ Tân Toàn Bích", "address": "Đường Nguyễn Đăng Khoa, Phường Thạch Mỹ Lợi, Quận 2, Thành phố Hồ Chí Minh", "x": 106.7281472, "y": 10.903679984, "demand": 61.0, "ready_time": 240.0, "due_date": 310.0, "service_time": 15.0, "is_served": true, "vehicle_num": 44} 
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+
+359.75981999999993
+Objective function count:  0
+
+----------------------------------
+Number vehicle: 17
+Total distance: 359.75981999999993
+2
+Vehicle 1: (Depot, service time 0) -> (Customer 26, service time 5) -> (Depot, service time 25.0)
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+		Customer: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11} 
+		Customer: {"cust_no": 26, "name": "Công Ty TNHH Xây Dựng Thế Tường", "address": "Đường Hà Đặc, Phường Trung Mỹ Tây, Quận 12, Thành phố Hồ Chí Minh", "x": 106.74476514, "y": 10.869483507, "demand": 80.0, "ready_time": 140.0, "due_date": 340.0, "service_time": 15.0, "is_served": true, "vehicle_num": 1} 
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+
+Vehicle 2: (Depot, service time 0) -> (Customer 8, service time 4) -> (Customer 30, service time 20.0) -> (Depot, service time 39.0)
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+		Customer: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11} 
+		Customer: {"cust_no": 8, "name": "Công ty TNHH MTV Sản Xuất Thương Mại Trang Trí Nội Thất Lan Anh", "address": "Đường Liên Phường, Phước Long B, Quận Thủ Đức, Thành phố Hồ Chí Minh", "x": 106.72058429, "y": 11.005608246, "demand": 61.0, "ready_time": 40.0, "due_date": 250.0, "service_time": 15.0, "is_served": true, "vehicle_num": 2} 
+		Customer: {"cust_no": 30, "name": "Công ty TNHH Tư Vấn Thiết Kế & Xây Dựng DAT", "address": "Đường Ql 13, Phường Hiệp Bình Phước, Quận Thủ Đức, Thành phố Hồ Chí Minh", "x": 106.7208141, "y": 10.9863538, "demand": 23.0, "ready_time": 180.0, "due_date": 240.0, "service_time": 15.0, "is_served": true, "vehicle_num": 2} 
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+
+Vehicle 6: (Depot, service time 0) -> (Customer 12, service time 6) -> (Customer 24, service time 22.0) -> (Depot, service time 42.0)
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+		Customer: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11} 
+		Customer: {"cust_no": 12, "name": "Công ty Cổ Phần Nội Thất Bim Decor", "address": "Đường Bình Thành, Phường Bình Hưng Hoà B, Quận Bình Tân, Thành phố Hồ Chí Minh", "x": 106.72592118, "y": 10.877594333, "demand": 76.0, "ready_time": 30.0, "due_date": 310.0, "service_time": 15.0, "is_served": true, "vehicle_num": 6} 
+		Customer: {"cust_no": 24, "name": "Hiệp Phát (CH Nguyễn Thị Hương)", "address": "Nguyễn Trọng Quyền, Phường Tân Thới Hoà, Quận Tân Phú, Thành phố Hồ Chí Minh", "x": 106.728693544865, "y": 10.8881993524627, "demand": 14.0, "ready_time": 240.0, "due_date": 380.0, "service_time": 15.0, "is_served": true, "vehicle_num": 6} 
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+
+Vehicle 11: (Depot, service time 0) -> (Customer 29, service time 31) -> (Customer 9, service time 69.0) -> (Customer 14, service time 87.0) -> (Depot, service time 110.0)
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+		Customer: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11} 
+		Customer: {"cust_no": 29, "name": "TK1 (Thái Hòa)", "address": "XPVW+MJ4 Tan Uyen, Bình Dương, Vietnam", "x": 106.522396802902, "y": 11.1831276912294, "demand": 51.0, "ready_time": 140.0, "due_date": 270.0, "service_time": 15.0, "is_served": true, "vehicle_num": 11} 
+		Customer: {"cust_no": 9, "name": "Công ty TNHH Thương Mại Và Sản Xuất Nội Thất Đất Mới", "address": "Đường Tỉnh Lộ 43, Phường Bình Chiểu, Quận Thủ Đức, Thành phố Hồ Chí Minh", "x": 106.671205, "y": 10.934591, "demand": 21.0, "ready_time": 70.0, "due_date": 290.0, "service_time": 15.0, "is_served": true, "vehicle_num": 11} 
+		Customer: {"cust_no": 14, "name": "Thịnh Phát", "address": "Ngô Chí Quốc, Phường Bình Chiểu, Quận Thủ Đức, Thành phố Hồ Chí Minh", "x": 106.69202774, "y": 10.959481528, "demand": 23.0, "ready_time": 30.0, "due_date": 220.0, "service_time": 15.0, "is_served": true, "vehicle_num": 11} 
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+
+Vehicle 13: (Depot, service time 0) -> (Customer 4, service time 6) -> (Depot, service time 27.0)
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+		Customer: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11} 
+		Customer: {"cust_no": 4, "name": "Anh Kỳ Anh - 0786857572", "address": "ðường Số 16, Phường Tân Phú, Quận 7, Thành phố Hồ Chí Minh", "x": 106.72074688, "y": 10.894220219, "demand": 79.0, "ready_time": 270.0, "due_date": 360.0, "service_time": 15.0, "is_served": true, "vehicle_num": 13} 
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+
+Vehicle 15: (Depot, service time 0) -> (Customer 31, service time 10) -> (Customer 22, service time 37.0) -> (Depot, service time 54.0)
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+		Customer: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11} 
+		Customer: {"cust_no": 31, "name": "Công ty TNHH Sản Xuất Thương Mại Đầu Tư Nội Thất Gia Phát", "address": "Đường Số 8, Phường Long Phước, Quận Thủ Đức, Thành phố Hồ Chí Minh", "x": 106.67622099, "y": 11.056098959, "demand": 52.0, "ready_time": 160.0, "due_date": 220.0, "service_time": 15.0, "is_served": true, "vehicle_num": 15} 
+		Customer: {"cust_no": 22, "name": "Công ty Cổ Phần Xây Dựng Và Trang Trí Nội Thất ID&D", "address": "Đường Vĩnh Phú 38, Thị xã Thuận An, Tỉnh Bình Dương", "x": 106.759562, "y": 10.975946, "demand": 46.0, "ready_time": 200.0, "due_date": 360.0, "service_time": 15.0, "is_served": true, "vehicle_num": 15} 
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+
+Vehicle 20: (Depot, service time 0) -> (Customer 36, service time 11) -> (Customer 7, service time 30.0) -> (Depot, service time 59.0)
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+		Customer: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11} 
+		Customer: {"cust_no": 36, "name": "Công ty TNHH Đồ Gỗ Và Trang Trí Nội Thất Anh Thịnh Phát", "address": "Đường 1b, Xã Vĩnh Lộc B, Huyện Bình Chánh, Thành phố Hồ Chí Minh", "x": 106.81331558, "y": 10.868854498, "demand": 36.0, "ready_time": 140.0, "due_date": 300.0, "service_time": 15.0, "is_served": true, "vehicle_num": 20} 
+		Customer: {"cust_no": 7, "name": "Công ty TNHH Đầu Tư Xây Dựng Unicons", "address": "Đại Lộ Bình Dương, Phường Lái Thiêu, Thị xã Thuận An, Tỉnh Bình Dương", "x": 106.8295158, "y": 10.809994447, "demand": 48.0, "ready_time": 290.0, "due_date": 380.0, "service_time": 15.0, "is_served": true, "vehicle_num": 20} 
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+
+Vehicle 22: (Depot, service time 0) -> (Customer 19, service time 33) -> (Customer 21, service time 65.0) -> (Customer 13, service time 96.0) -> (Depot, service time 115.0)
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+		Customer: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11} 
+		Customer: {"cust_no": 19, "name": "Công ty Cổ Phần Việt Trường Giang", "address": "Dương Công Khi, Xã Xuânthới Sơn, Huyện Hóc Môn, Thành phố Hồ Chí Minh", "x": 106.984466314316, "y": 10.7928703763957, "demand": 28.0, "ready_time": 160.0, "due_date": 300.0, "service_time": 15.0, "is_served": true, "vehicle_num": 22} 
+		Customer: {"cust_no": 21, "name": "Công ty TNHH Thiết Kế - Thi Công Nội Thất AV Decor", "address": "Tl19, Phường Thạnh Lộc, Quận 12, Thành phố Hồ Chí Minh", "x": 106.8611347, "y": 10.806832001, "demand": 25.0, "ready_time": 260.0, "due_date": 330.0, "service_time": 15.0, "is_served": true, "vehicle_num": 22} 
+		Customer: {"cust_no": 13, "name": "Công Ty TNHH Xây Dựng Nội Thất TN Thành Thạo", "address": "Đường Sư Đoàn 9, Xã Vĩnh Lộc A, Huyện Bình Chánh, Thành phố Hồ Chí Minh", "x": 106.745369, "y": 10.903838, "demand": 39.0, "ready_time": 210.0, "due_date": 290.0, "service_time": 15.0, "is_served": true, "vehicle_num": 22} 
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+
+Vehicle 24: (Depot, service time 0) -> (Customer 23, service time 8) -> (Customer 3, service time 27.0) -> (Customer 20, service time 43.0) -> (Customer 28, service time 59.0) -> (Depot, service time 80.0)
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+		Customer: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11} 
+		Customer: {"cust_no": 23, "name": "Xưởng Luân Mộc", "address": "Điện Biên Phủ, Phường 21, Quận Bình Thạnh, Thành phố Hồ Chí Minh", "x": 106.69143306, "y": 10.979922234, "demand": 53.0, "ready_time": 230.0, "due_date": 360.0, "service_time": 15.0, "is_served": true, "vehicle_num": 24} 
+		Customer: {"cust_no": 3, "name": "Công ty TNHH Phát Triển Phú Mỹ Hưng", "address": "Tôn Dật Tiên, Phú Mỹ Hưng, Quận 7, Thành phố Hồ Chí Minh", "x": 106.7047955, "y": 10.892582107, "demand": 18.0, "ready_time": 240.0, "due_date": 380.0, "service_time": 15.0, "is_served": true, "vehicle_num": 24} 
+		Customer: {"cust_no": 20, "name": "Công Ty TNHH Quân Vĩnh Phát", "address": "Trịnh Quang Nghị, Xã Phong Phú, Huyện Bình Chánh, Hồ Chí Minh, Việt Nam", "x": 106.70655081, "y": 10.883996207, "demand": 12.0, "ready_time": 160.0, "due_date": 300.0, "service_time": 15.0, "is_served": true, "vehicle_num": 24} 
+		Customer: {"cust_no": 28, "name": "Công ty TNHH TM SX Vận Chuyển Hợp Phát", "address": "Võ Văn Vân, Xã Vĩnh Lộc B, Huyện Bình Chánh, Thành phố Hồ Chí Minh", "x": 106.71157068, "y": 10.901157782, "demand": 12.0, "ready_time": 120.0, "due_date": 310.0, "service_time": 15.0, "is_served": true, "vehicle_num": 24} 
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+
+Vehicle 27: (Depot, service time 0) -> (Customer 11, service time 6) -> (Customer 10, service time 23.0) -> (Depot, service time 42.0)
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+		Customer: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11} 
+		Customer: {"cust_no": 11, "name": "Công Ty TNHH Western City", "address": "Tân Túc, Thị Trấn Tân Túc, Huyện Bình Chánh, Thành phố Hồ Chí Minh", "x": 106.74271339, "y": 10.859154544, "demand": 48.0, "ready_time": 120.0, "due_date": 210.0, "service_time": 15.0, "is_served": true, "vehicle_num": 27} 
+		Customer: {"cust_no": 10, "name": "Công ty Cổ Phần Nội Thất Bim Decor", "address": "Đường Bình Thành, Phường Bình Hưng Hoà B, Quận Bình Tân, Thành phố Hồ Chí Minh", "x": 106.74075181, "y": 10.908638626, "demand": 50.0, "ready_time": 200.0, "due_date": 360.0, "service_time": 15.0, "is_served": true, "vehicle_num": 27} 
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+
+Vehicle 29: (Depot, service time 0) -> (Customer 25, service time 25) -> (Customer 16, service time 61.0) -> (Depot, service time 82.0)
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+		Customer: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11} 
+		Customer: {"cust_no": 25, "name": "Công ty TNHH BELA DECOR", "address": "Dương Đình Hội, Phước Long B, Quận Thủ Đức, Thành phố Hồ Chí Minh", "x": 106.92347418, "y": 10.866704567, "demand": 55.0, "ready_time": 80.0, "due_date": 180.0, "service_time": 15.0, "is_served": true, "vehicle_num": 29} 
+		Customer: {"cust_no": 16, "name": "Công Ty TNHH Phụ Kiện Cửa Tân Hiệp Lợi", "address": "Đường Ttn05, Phường Tân Thới Nhất, Quận 12, Thành phố Hồ Chí Minh", "x": 106.774077, "y": 10.879966, "demand": 31.0, "ready_time": 90.0, "due_date": 310.0, "service_time": 15.0, "is_served": true, "vehicle_num": 29} 
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+
+Vehicle 30: (Depot, service time 0) -> (Customer 6, service time 9) -> (Customer 2, service time 30.0) -> (Depot, service time 59.0)
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+		Customer: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11} 
+		Customer: {"cust_no": 6, "name": "Hiệp Phát (CH Nguyễn Thị Hương)", "address": "Nguyễn Trọng Quyền, Phường Tân Thới Hoà, Quận Tân Phú, Thành phố Hồ Chí Minh", "x": 106.68390697, "y": 10.916813245, "demand": 29.0, "ready_time": 30.0, "due_date": 150.0, "service_time": 15.0, "is_served": true, "vehicle_num": 30} 
+		Customer: {"cust_no": 2, "name": "Lê Đức Tuyến - 0913189296", "address": "Đường Hà Duy Phiên, Xã Bình Mỹ, Huyện Củ Chi, Thành phố Hồ Chí Minh", "x": 106.64381157, "y": 10.955966127, "demand": 69.0, "ready_time": 20.0, "due_date": 80.0, "service_time": 15.0, "is_served": true, "vehicle_num": 30} 
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+
+Vehicle 34: (Depot, service time 0) -> (Customer 34, service time 6) -> (Customer 5, service time 26.0) -> (Depot, service time 48.0)
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+		Customer: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11} 
+		Customer: {"cust_no": 34, "name": "Công ty Cổ Phần Signora Decor", "address": "Đường Quốc Lộ 1, Phường An Phú Đông, Quận 12, Thành phố Hồ Chí Minh", "x": 106.75354258, "y": 10.862187633, "demand": 69.0, "ready_time": 300.0, "due_date": 360.0, "service_time": 15.0, "is_served": true, "vehicle_num": 34} 
+		Customer: {"cust_no": 5, "name": "Phòng Truyền Thông Tiếp Thị", "address": "Nguyễn Văn Trỗi, Quận Phú Nhuận", "x": 106.78611818, "y": 10.890647589, "demand": 27.0, "ready_time": 120.0, "due_date": 210.0, "service_time": 15.0, "is_served": true, "vehicle_num": 34} 
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+
+Vehicle 35: (Depot, service time 0) -> (Customer 27, service time 9) -> (Customer 35, service time 35.0) -> (Depot, service time 53.0)
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+		Customer: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11} 
+		Customer: {"cust_no": 27, "name": "TK3 (Khánh Bình)", "address": "Khu phố Bình Chánh, Phường Khánh Bình, TX Tân Uyên, Bình Dương", "x": 106.80562151, "y": 10.901605283, "demand": 53.0, "ready_time": 200.0, "due_date": 350.0, "service_time": 15.0, "is_served": true, "vehicle_num": 35} 
+		Customer: {"cust_no": 35, "name": "Công ty TNHH ANACA", "address": "Đường ấp Đông 1-2, Xã Thới Tam Thôn, Huyện Hóc Môn, Thành phố Hồ Chí Minh", "x": 106.73176292, "y": 10.980296147, "demand": 45.0, "ready_time": 220.0, "due_date": 340.0, "service_time": 15.0, "is_served": true, "vehicle_num": 35} 
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+
+Vehicle 38: (Depot, service time 0) -> (Customer 15, service time 15) -> (Customer 18, service time 35.0) -> (Depot, service time 60.0)
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+		Customer: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11} 
+		Customer: {"cust_no": 15, "name": "Nguyễn Hữu Trí", "address": "Đường Võ Văn Vân, Xã Vĩnh Lộc B, Huyện Bình Chánh, Thành phố Hồ Chí Minh", "x": 106.64213352, "y": 10.94194556, "demand": 31.0, "ready_time": 270.0, "due_date": 350.0, "service_time": 15.0, "is_served": true, "vehicle_num": 38} 
+		Customer: {"cust_no": 18, "name": "Chi Nhánh tại Miền Nam - Công ty Cổ Phần Thiết Kế Lục Giác", "address": "Tân Thới Nhất 12, Phường Tân Thới Nhất, Quận 12, Thành phố Hồ Chí Minh", "x": 106.672367, "y": 11.001187, "demand": 67.0, "ready_time": 160.0, "due_date": 280.0, "service_time": 15.0, "is_served": true, "vehicle_num": 38} 
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+
+Vehicle 39: (Depot, service time 0) -> (Customer 1, service time 8) -> (Customer 33, service time 29.0) -> (Depot, service time 57.0)
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+		Customer: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11} 
+		Customer: {"cust_no": 1, "name": "Công ty TNHH TMSX TTNT Gia Đạt", "address": "Nguyễn Bỉnh Khiêm, Phường Bửu Long, Thành phố Biên Hòa, Tỉnh Đồng Nai", "x": 106.80025946, "y": 10.954291314, "demand": 26.0, "ready_time": 200.0, "due_date": 360.0, "service_time": 15.0, "is_served": true, "vehicle_num": 39} 
+		Customer: {"cust_no": 33, "name": "Xưởng Anh Trung", "address": "Đường Dt 743, Phường Thái Hòa, Thị xã Tân Uyên, Tỉnh Bình Dương", "x": 106.83448438, "y": 10.899300337, "demand": 73.0, "ready_time": 110.0, "due_date": 210.0, "service_time": 15.0, "is_served": true, "vehicle_num": 39} 
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+
+Vehicle 44: (Depot, service time 0) -> (Customer 32, service time 7) -> (Customer 17, service time 25.0) -> (Depot, service time 45.0)
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+		Customer: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11} 
+		Customer: {"cust_no": 32, "name": "Công ty TNHH Thương Mại Dịch Vụ Decor Sài Gòn", "address": "Đường ấp 5, Xã Xuân Thới Thượng, Huyện Hóc Môn, Thành phố Hồ Chí Minh", "x": 106.709404, "y": 10.883341, "demand": 35.0, "ready_time": 280.0, "due_date": 340.0, "service_time": 15.0, "is_served": true, "vehicle_num": 44} 
+		Customer: {"cust_no": 17, "name": "Công ty TNHH Sản Xuất Thương Mại Dịch Vụ Tân Toàn Bích", "address": "Đường Nguyễn Đăng Khoa, Phường Thạch Mỹ Lợi, Quận 2, Thành phố Hồ Chí Minh", "x": 106.7281472, "y": 10.903679984, "demand": 61.0, "ready_time": 240.0, "due_date": 310.0, "service_time": 15.0, "is_served": true, "vehicle_num": 44} 
+		Depot: {"cust_no": 0, "name": "nan", "address": "nan", "x": 106.7465781, "y": 10.9941375, "demand": 0.0, "ready_time": 0.0, "due_date": 420.0, "service_time": 0.0, "is_served": true, "vehicle_num": 11}
+
+359.75981999999993
+Objective function count:  297433

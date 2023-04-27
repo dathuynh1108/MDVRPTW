@@ -1,0 +1,10 @@
+VEHICLE
+NUMBER     CAPACITY
+  50          100
+
+CUSTOMER
+            X          Y  DEMAND  START    END  SERVICE TIME                                                                         NAME                                                                                       ADDRESS
+0  106.775002  11.033710       0    0.0  420.0             0                                                                          NaN                                                                                           NaN
+1  106.731978  11.055939      22  110.0  180.0            15                                   Công ty TNHH Thương Mại Dịch Vụ Việt Hoàng  Kcn Vình Lộc, Đường Phan Văn Đối, Phường Bình Hưng Hòa, Quận Bình Tân, Thành phố Hồ Chí Minh
+2  106.854420  10.957962      60  110.0  200.0            15  Công ty Cổ Phần Đầu Tư Xây Dựng - Xuất Nhập Khẩu Trang Trí Nội Thất Gia Huy                            Đường Võ Văn Bích, Xã Bình Mỹ, Huyện Củ Chi, Thành phố Hồ Chí Minh
+3  106.871969  10.944350      70  150.0  220.0            15                                    Công ty TNHH Trang Trí Nội Thất Gỗ An Đạt                                  Bình Quới, Phường 28, Quận Bình Thạnh, Thành phố Hồ Chí Minh
