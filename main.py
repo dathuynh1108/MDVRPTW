@@ -2,10 +2,6 @@ from kmeans.kmeans import *
 from cvrptw.cvrptw import *
 import pandas as pd
 import os
-import matplotlib
-import matplotlib.pyplot as plt
-import numpy as np
-from multiprocessing import Process
 import multiprocessing
 
 if __name__ == '__main__':
